@@ -13,8 +13,8 @@
 
 A curated list of **high-quality talks, keynotes, invited lectures, seminars, tutorials, and workshop recordings** on **AI for Science (AI4S / AI4Science)** across **all scientific disciplines** — from biology and chemistry to materials, physics, climate, and autonomous discovery.
 
-Maintainers: <YOUR_NAME> (<YOUR_AFFILIATION>)  
-Contact: <YOUR_EMAIL>
+Maintainers: Yingcheng Charles Wu (Stanford)  
+Contact: wuyc@stanford.edu
 
 [🌟 Overview](#-overview) • [📖 News](#-news) • [📚 Content](#-content) • [🤝 Contributing](#-contributing) • [🇨🇳 中文](README_CN.md)
 
