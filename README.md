@@ -9,10 +9,10 @@ A comprehensive, *quality-first* collection of talks, keynotes, invited lectures
 
 ---
 
-![GitHub stars](https://img.shields.io/github/stars/your_github_username/awesome-ai4s-talks?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your_github_username/awesome-ai4s-talks?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/your_github_username/awesome-ai4s-talks)
-![License](https://img.shields.io/github/license/your_github_username/awesome-ai4s-talks)
+![GitHub stars](https://img.shields.io/github/stars/wu-yc/awesome-ai4s-talks?style=social)
+![GitHub forks](https://img.shields.io/github/forks/wu-yc/awesome-ai4s-talks?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/wu-yc/awesome-ai4s-talks)
+![License](https://img.shields.io/github/license/wu-yc/awesome-ai4s-talks)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ---
@@ -56,7 +56,7 @@ This repo focuses on **talks** because:
 - ❌ Avoid paywalled-only content (unless widely useful & clearly labeled)
 
 ### Maintainers
-- Maintainer: [@your_github_username](https://github.com/your_github_username)
+- Maintainer: [@wu-yc](https://github.com/wu-yc)
 
 ---
 
@@ -280,7 +280,7 @@ This repo focuses on **talks** because:
 
 - [Awesome Scientific Machine Learning](https://github.com/zenoxml/awesome-scientific-machine-learning)
 - [Awesome Physics-Informed Neural Networks](https://github.com/nn4pde/awesome-pinns)
-- [Awesome AI4Science Talks (this repo)](https://github.com/your_github_username/awesome-ai4s-talks)
+- [Awesome AI4Science Talks (this repo)](https://github.com/wu-yc/awesome-ai4s-talks)
 
 > If you maintain an AI4S/Scientific-ML awesome list, open a PR to add it here.
 
